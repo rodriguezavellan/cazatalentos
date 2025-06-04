@@ -60,3 +60,7 @@ La app, desarrollada con `Streamlit`, permite al usuario ingresar los atributos 
 Este proyecto fue realizado como trabajo final de un bootcamp de Analisis de datos por:
 - Giovanny Rodriguez
 - Adriá Gras
+
+##  📎 Demo en línea
+Puedes probar la app aquí:
+👉 https://cazatalentos.streamlit.app/
