@@ -1,0 +1,4 @@
+nombre,edad,altura,partidos_jugados,goles,asistencias,minutos_jugados,part_ganados,part_no_ganados,porteria_cero,Partidos_majorleague,Partidos_europeos,Finales_europeas,n_transferencias,n_lesiones,max_valor_mercado,pais_España,pais_Argentina,pais_Francia,pais_Alemania,pais_Otro,pie_Derecho,pie_Izquierdo,posicion_Delantero,posicion_Mediocampista,posicion_Defensa,posicion_Portero,is_major_national_league_Sí
+Jugador A,24,180,30,12,5,2500,18,12,0,10,3,1,2,1,18000000,1,0,0,0,0,1,0,1,0,0,0,1
+Jugador B,21,175,28,7,9,2200,15,13,0,6,4,0,1,0,12000000,0,1,0,0,0,0,1,0,1,0,0,1
+Jugador C,30,185,32,2,3,2800,20,12,0,12,6,2,4,2,5000000,0,0,1,0,0,1,0,0,0,1,0,0
